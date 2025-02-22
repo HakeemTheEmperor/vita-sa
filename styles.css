@@ -85,6 +85,7 @@ body {
 .nav-link:hover,
 .nav-link:focus,
 .active {
+  color: #fff !important;
   text-decoration: underline;
   text-decoration-color: #fff !important;
   text-decoration-thickness: 3px;
