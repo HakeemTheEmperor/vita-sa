@@ -6,6 +6,8 @@ The website is a simple design agency website that showcases their services, wor
 
 Derived inspiration from [**10Clouds**](https://10clouds.com/) website. Special thanks to [**TheDesignMerlin**](https://www.linkedin.com/in/psalmuhel/) for his advice and input
 
+**You can view the website [here](https://vita-somniorum.vercel.app/)**
+
 The images used in this project where gotten from a variety of sites including but not limited to:
 
 - [**Freepik**](freepik.com)
