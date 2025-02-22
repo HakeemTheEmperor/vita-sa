@@ -11,4 +11,5 @@ The images used in this project where gotten from a variety of sites including b
 - [**Freepik**](freepik.com)
 
 - [**Unsplash**](unsplash.com)
-  _Notice: If I used your image without crediting you, please reach out to me to address it. Thanks_
+
+_Notice: If I used your image without crediting you, please reach out to me to address it. Thanks_
